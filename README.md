@@ -1,7 +1,7 @@
 # DanceGen
 
-DanceGen is an AI-powered dance generation API that creates dance animations based on music input. It leverages the EDGE (Embodied Dance Generation) model to produce unique dance sequences synchronized with given songs.
-
+DanceGen is an AI-powered dance generation API that creates dance animations based on music input. It leverages the EDGE (Editable Dance Generation) model to produce unique dance sequences synchronized with given songs.
+Please go to [EDGE](https://github.com/Stanford-TML/EDGE) and make sure that you have the pre requisites and your device meets the project's GPU requirements before running the project
 ## Features
 
 - Generate dance animations from song names or audio files
@@ -71,7 +71,13 @@ task_id = response.json()["task_id"]
 ```
 
 You can then check the status of the task and retrieve the result using the task ID.
-
+## FBX Environment
+If you need an AutoDesk FBX environment for other project you can pull the image from DockerHub which allows you to work with Python FBX without installing it manually.
+```
+docker pull youngccamel/bile:fbx2
+```
+## .pkl to .fbx file converter API
+[Converter](https://fbx-1-f0e6e5cdebetdnfy.eastus-01.azurewebsites.net)
 ## API Documentation
 
 Once the server is running, you can access the API documentation at `http://localhost:8000/docs`.
