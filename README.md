@@ -2,6 +2,10 @@
 
 DanceGen is an AI-powered dance generation API that creates dance animations based on music input. It leverages the EDGE (Editable Dance Generation) model to produce unique dance sequences synchronized with given songs.
 Please go to [EDGE](https://github.com/Stanford-TML/EDGE) and make sure that you have the pre requisites and your device meets the project's GPU requirements before running the project
+
+## Front end
+[BileAI front end](https://github.com/youngccame1/bile-ai-3d)
+
 ## Features
 
 - Generate dance animations from song names or audio files
