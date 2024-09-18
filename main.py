@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api import dance_router
+from app.api.dance_generation import router as dance_router
 from app.core.config import settings
 
 app = FastAPI(title="DanceGen API")
