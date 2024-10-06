@@ -3,6 +3,9 @@
 DanceGen is an AI-powered dance generation API that creates dance animations based on music input. It leverages the EDGE (Editable Dance Generation) model to produce unique dance sequences synchronized with given songs.
 Please go to [EDGE](https://github.com/Stanford-TML/EDGE) and make sure that you have the pre requisites and your device meets the project's GPU requirements before running the project
 
+## Watch user generated dances
+As I have rented GPU VM, I have stopped the VM and now only available the dance s that were been generated in August during the launch.
+[Generated Dances](https://bile-front-v1.vercel.app/en/all-dances))
 ## Front end
 [BileAI front end](https://github.com/youngccame1/bile-ai-3d)
 
@@ -81,7 +84,7 @@ If you need an AutoDesk FBX environment for other project you can pull the image
 docker pull youngccamel/bile:fbx2
 ```
 ## .pkl to .fbx file converter API
-[Converter](https://fbx-1-f0e6e5cdebetdnfy.eastus-01.azurewebsites.net)
+[Converter](https://fbx-1-f0e6e5cdebetdnfy.eastus-01.azurewebsites.net/docs)
 ## API Documentation
 
 Once the server is running, you can access the API documentation at `http://localhost:8000/docs`.
