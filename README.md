@@ -4,7 +4,7 @@ DanceGen is an AI-powered dance generation API that creates dance animations bas
 Please go to [EDGE](https://github.com/Stanford-TML/EDGE) and make sure that you have the pre requisites and your device meets the project's GPU requirements before running the project
 
 ## Watch user generated dances
-As I have rented GPU VM, I have stopped the VM and now only available the dance s that were been generated in August during the launch.
+I have stopped the GPU VM I rented, and now only the dance animations generated in August during the launch are available.
 [Generated Dances](https://bile-front-v1.vercel.app/en/all-dances)
 ## Front end
 [BileAI front end](https://github.com/youngccame1/bile-ai-3d)
