@@ -5,7 +5,7 @@ Please go to [EDGE](https://github.com/Stanford-TML/EDGE) and make sure that you
 
 ## Watch user generated dances
 As I have rented GPU VM, I have stopped the VM and now only available the dance s that were been generated in August during the launch.
-[Generated Dances](https://bile-front-v1.vercel.app/en/all-dances))
+[Generated Dances](https://bile-front-v1.vercel.app/en/all-dances)
 ## Front end
 [BileAI front end](https://github.com/youngccame1/bile-ai-3d)
 
